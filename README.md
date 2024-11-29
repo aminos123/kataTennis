@@ -1,1 +1,2 @@
 # kataTennis
+mvn clean install
